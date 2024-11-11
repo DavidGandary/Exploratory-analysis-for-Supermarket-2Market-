@@ -1,5 +1,5 @@
 # Exploratory-analysis-for-Supermarket-2Market-
-Exploratory analysis and presenting insights for 2Market Supermarket(In depth technical report can be found in [01 Project Management](01_Project_Management/) folder)
+Exploratory analysis and presenting insights for 2Market Supermarket(In depth technical report can be found in [01 Project Management](01 Project Management/) folder)
 ## Project description
 The project aimed to help a global supermarket(2Market) which sells products online and in-store, to help them understand their customer purchase behaviour. 
 
