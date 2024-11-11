@@ -18,5 +18,5 @@ Analysis focused on asking several questions both of key stakeholders as well as
 ### Questions to ask the data 
 - Is there a relationship between certain products and advertising engagement?
 - What products sell the best?
-### Tableau Dashboard
+## Tableau Dashboard
 The results of our analysis have been synthesised into an interactive dashboard hosted on Tableau Public, providing a user-friendly interface for exploring the findings and recommendations. The dashboard includes three interactive bar charts. 
