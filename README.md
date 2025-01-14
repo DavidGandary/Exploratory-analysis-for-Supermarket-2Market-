@@ -21,3 +21,27 @@ Analysis focused on asking several questions both of key stakeholders as well as
 - What products sell the best?
 ## Tableau Dashboard
 The results of our analysis have been synthesised into an interactive dashboard hosted on Tableau Public, providing a user-friendly interface for exploring the findings and recommendations. The dashboard includes three interactive bar charts. 
+## **Challenges and Solutions**
+
+Faced challenges with data variability and missing values. Addressed these issues through data cleaning and balancing techniques, which allowed for accurate comparisons across age groups and marital statuses.
+
+## **End Results and Recommendations**
+
+### **Strategic Recommendations**
+
+- **Target Customer Loyalty Programs in Spain**: Given Spain's high market share, prioritise customer loyalty strategies in this region.
+- **Explore Advertising Efficacy**: With Twitter performing well in multiple countries (e.g., Spain, South Africa, India), allocate more resources to Twitter ads, particularly in these regions.
+- **Adjust Pricing Strategy for Alcohol Beverages**: Given their popularity, particularly among 41–50-year-olds, consider gradual price increases to maximise revenue without compromising demand.
+- **Address unique market needs:** Region-specific strategies were proposed, particularly for high-potential markets like Montenegro. For this market, metrics like ad impressions and click-through rates could guide ad spend efficiency, enhancing reach and engagement.
+
+## **Outcomes**
+
+This analysis provided actionable insights into age-based preferences and region-specific advertising platforms, enabling more targeted customer engagement strategies across different demographics.
+
+## **Reflections**
+
+This project highlighted the importance of aligning product marketing strategies with customer demographics and showcased SQL’s utility in extracting and segmenting critical data for insights. Recognition of the importance of a structured problem-solving approach, which I plan to implement in future projects. This structured approach would help guide the analysis systematically and ensure it addresses both strategic and technical objectives, particularly for technical audiences.
+
+## **Next Steps**
+
+Future analysis could explore the relationship between lead conversions and total spend per channel. This would offer insights into the efficiency of different marketing channels and allow us to fine-tune ad spend based on customer conversion effectiveness. Additionally, analysing income distributions across top-purchasing age groups for premium product offerings may uncover more pricing opportunities.
