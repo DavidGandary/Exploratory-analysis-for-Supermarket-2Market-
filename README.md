@@ -1,4 +1,8 @@
 # Exploratory-analysis-for-Supermarket-2Market-
+Licensed under CC BY-NC-ND 4.0. View the LICENSE file for details.
+
+
+
 Exploratory analysis and presenting insights for 2Market Supermarket(In depth technical report can be found in [01 Project Management](01%20Project%20Management/)
 
 ## Project description
